@@ -52,3 +52,4 @@ For each manufacturer, we list the username first and pasword section in the fol
 * Vivotek: root/<blank>
 * Ubiquiti: ubnt/ubnt
 * Wodsee: admin/<blank>
+* Blinkit
